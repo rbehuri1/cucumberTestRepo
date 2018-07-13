@@ -1,0 +1,42 @@
+[	
+	{
+		"firstName": "Lakshay",
+		"lastName": "Sharma",
+		"size": 0,
+		"productNumber": 1,
+		"emailAddress": "radhabehuria508@Gmail.com",
+		"passWord": "SDFaf@123",
+		"address": {
+			"streetAddress": "Shalimar Bagh",
+			"city": "Delhi",
+			"postCode": "560037",
+			"state": "Delhi",
+			"country": "India",
+			"county": "Delhi"
+		},
+		"phoneNumber": {
+			"home": "012345678",
+			"mob": "9742094704"
+		}
+	},
+	{
+		"firstName": "radha",
+		"lastName": "Singh",
+		"age": 35,
+		"size": 0,
+		"productNumber": 1,
+		"emailAddress": "radhabehuria508@Gmail.com",
+		"address": {
+			"streetAddress": "Palam Vihar",
+			"city": "Gurgaon",
+			"postCode": "560037",
+			"state": "Haryana",
+			"country": "India",
+			"county": "Delhi"
+		},
+		"phoneNumber": {
+			"home": "012345678",
+			"mob": "9742094704"
+		}
+	}
+]
